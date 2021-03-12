@@ -219,7 +219,7 @@ In addition, collectors can have other responsibilities. For example, some expos
  * [Stagemonitor]() -
  * [Scouter]() -
  * [Uchiwa]() -
- * [Alerta web UI]() -
+ * [Alerta web UI](https://alerta.io/) - The alerta monitoring system is a tool used to consolidate and de-duplicate alerts from multiple sources for quick ‘at-a-glance’ visualisation.
  * [netdata]() -
  * [Netflix Vector]()
  * [Netflix Atlas]() -
